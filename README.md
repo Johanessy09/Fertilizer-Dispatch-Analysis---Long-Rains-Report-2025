@@ -43,6 +43,3 @@ The data captures the quantities of fertilizers dispatched to various counties, 
 
 ## Data Source
 The dataset is sourced from the **National Cereals and Produce Board (Kenya)** as part of the **Long Rains Fertilizer Dispatch Report (11th March 2025)**.
-
-## License
-This project is licensed under the MIT License.
